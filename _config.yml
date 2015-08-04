@@ -1,0 +1,21 @@
+# Site settings
+title: Tali's Blog Leaving a Legacy
+header-img: img/3bffs.jpg
+email: tvogelstein@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Read about my adventures, relationships, and traumas. Continue on about my thoughts, thought processes, principles, and wrongdoings. 
+  Hear me judge but never judge me. Or I'll blacklist you from this blog. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+instagram_username: talivog
+github_username:  talivog
+facebook_username: tallliiii
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+port: 6120
