@@ -2,7 +2,7 @@
 layout:     post
 title:      "NSO"
 subtitle:   "Jewniversity of Pennsylgaysia"
-date:       2015-08-21
+date:       2015-07-25
 author:     "Tali M."
 header-img: "img/pattys-bg.jpg"
 category: school

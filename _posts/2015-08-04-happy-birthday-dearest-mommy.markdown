@@ -21,23 +21,22 @@ tags: [home]
 <h3>Let's move on. I <i>really</i> don't want to get into those details.</h3>
 <p>I know I scream at you sometimes, but as I age I realize how stupid that is of me.</p>
 
-<p>You almost always make the loveliest impressions on everyone (the only exception that comes to mind is your screaming at Acey- ugh that little square face!- in front of Frank), including Gloria Hack, Marlee, Brooke, Judd/Denise (impression, maybe not <i>lasting</i> impression), and everyone else who meets you.</p> 
+<p>You almost always make the loveliest impressions on everyone (the only exception that comes to mind is your screaming at Acey- that little square face!- in front of Frank), including Gloria Hack, Marlee, Brooke, Judd/Denise (I said impression, not <i>lasting</i> impression), and everyone else who meets you.</p> 
 
 <p><center>A birthday greeting for you:</center><p>
 <iframe width="500" height="300" src="https://www.youtube.com/embed/qbvimp1vbL0" frameborder="0" allowfullscreen></iframe>
 <p>Dearest Mother,
 <br>
-I know I do not showcase how much I appreciate you nearly as much as I should. You deserve the world.
+I know I do not showcase how much I appreciate you nearly as much as I should.
 
-<br><u>Some reasons why you are great:</u><br>
+<br><u>Some reasons why you are great (just a few of the many!):</u><br>
 You have 184 windows in your house.
-
-
-You reacted wonderfully to having a bat in our house but no heroic husband when my friend Jessie from Capital Camps trekked over to Baltimore to visit me.
-
-You are thee most fit mother of 8 on the planet.
-
-You are the most hardworking, dedicated bar/bat-mitzvah planner when it comes to your children. I'll always treasure my Voge magazine.
+<br><br>
+1. You reacted wonderfully to having a bat in our house but no heroic husband when my friend Jessie from Capital Camps trekked over to Baltimore to visit me.
+<br>
+2. You are thee most fit mother of 8 on the planet.
+<br>
+3. You are the most hardworking, dedicated bar/bat-mitzvah planner when it comes to your children. I'll always treasure my Voge magazine.
 
 
 <p>Thank you for prioritizing all of your wonderful kids before yourself (in all regards but exercising and responding to emails). We love you and think you are the very best!</p>
