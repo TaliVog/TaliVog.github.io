@@ -24,6 +24,6 @@ Don't get me wrong, I attended about 1/4 of these events. But knowing I was supp
 <p><small>Lastly, I didn't know that many people at last year's NSO. Now I have lots of friends (or so I like to think...)! 
 </small></p>
 <h3>All of these factors have influenced me to believe this year's NSO will be better than last year's. And last year's was pretty fun. C u there.</h3>
-<p><center>ALSO, I am beyond excited to move in with these gals.</center>
+<p><center>ALSO, I am beyond excited to move in with these gals:</center>
 <center><img src="http://localhost:6120/img/school/housemates.jpg" height="300px" width="300px" style="padding-top:20px"></center><br>
 <i><center>Email me if you are interested in attending one of our (soon-to-be) famous Shabbat Dinners! You don't even need to be Jewish, all are welcome.</center></i></p>
