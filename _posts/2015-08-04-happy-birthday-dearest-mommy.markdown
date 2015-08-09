@@ -30,13 +30,13 @@ tags: [home]
 I know I do not showcase how much I appreciate you nearly as much as I should.
 
 <br><u>Some reasons why you are great (just a few of the many!):</u><br>
-You have 184 windows in your house.
+1. You have 184 windows in your house.
 <br><br>
-1. You reacted wonderfully to having a bat in our house but no heroic husband when my friend Jessie from Capital Camps trekked over to Baltimore to visit me.
+2. You reacted wonderfully to having a bat in our house but no heroic husband when my friend Jessie from Capital Camps trekked over to Baltimore to visit me.
 <br>
-2. You are thee most fit mother of 8 on the planet.
+3. You are thee most fit mother of 8 on the planet.
 <br>
-3. You are the most hardworking, dedicated bar/bat-mitzvah planner when it comes to your children. I'll always treasure my Voge magazine.
+4. You are the most hardworking, dedicated bar/bat-mitzvah planner when it comes to your children. I'll always treasure my Voge magazine.
 
 
 <p>Thank you for prioritizing all of your wonderful kids before yourself (in all regards but exercising and responding to emails). We love you and think you are the very best!</p>

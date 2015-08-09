@@ -2,7 +2,7 @@
 layout:     post
 title:      "All The CT Clubs/Bars We've Dominated (or at least visited)"
 subtitle:   "we r crazyyy"
-date:       2015-07-25
+date:       2015-06-12
 author:     "Tali M."
 header-img: "img/travel/assembly/assem6.jpg"
 category: travel
@@ -14,7 +14,9 @@ tags: [travel]
 <li>
 31
 </li>
+<li>
 Fiction
+</li>
 <li>
 Tiger Tiger
 </li>
