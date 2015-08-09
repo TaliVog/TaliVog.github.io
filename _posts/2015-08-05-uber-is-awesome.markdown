@@ -18,9 +18,9 @@ tags: [travel]
 <br>1. Ubers are far safer than cabs in CT. <small>My program director told me I am forbidden from riding in anything other than Uber on my own. Yes, cabs are unsafe. </small><a href="http://www.2oceansvibe.com/2015/07/13/shocking-images-show-young-blonde-girl-following-attack-outside-tiger-tiger/">Article link</a>
 <br><br>2. Ubers are incredibly cheap in CT. <small>The minimum is R20, or $1.6. Compare that to the min in NYC of $8.</small>
 <br><br>3. The drivers' names are hilarious.
-<center><img src="http://localhost:6120/img/travel/uber/uber1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/uber/uber4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/uber/uber5.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/uber/uber1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/uber/uber4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/uber/uber5.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 </p>
 
 <h3>So, please sign any petitions that arise in favor of keeping Uber out there to keep all of us Capetonians safe. <small><i>Thank you!</i></small></h3>

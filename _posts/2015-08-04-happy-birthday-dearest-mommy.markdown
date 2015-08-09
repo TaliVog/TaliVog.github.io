@@ -15,9 +15,9 @@ tags: [home]
 
 <h1><center>You</center></h1>
 <h1><center>+</center></h1>
-<center><img src="http://localhost:6120/img/home/mommydaddy.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/mommydaddy.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <h1><center>=</center></h1>
-<center><img src="http://localhost:6120/img/family-bg.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/family-bg.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <h3>Let's move on. I <i>really</i> don't want to get into those details.</h3>
 <p>I know I scream at you sometimes, but as I age I realize how stupid that is of me.</p>
 
@@ -40,8 +40,8 @@ I know I do not showcase how much I appreciate you nearly as much as I should.
 
 
 <p>Thank you for prioritizing all of your wonderful kids before yourself (in all regards but exercising and responding to emails). We love you and think you are the very best!</p>
-<center><img src="http://localhost:6120/img/home/mommy2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/home/mommy5.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/home/mommy4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/mommy2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/mommy5.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/mommy4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <p><center>A special shoutout to Grandma for her birthday, too!</center></p>
 <h3>T-3 days till we can reunite</h3>

@@ -19,18 +19,18 @@ So, you might be thinking: 'FAKE!'
 Or, maybe: 'It doesn't sound like you keep Shab for G-d, so why do you burden yourself with it?'
 <br>
 My answers: 1) F all the h8ers. 2) I do it for myself. Carry on, eager readers!
-<center><img src="http://localhost:6120/img/home/shab1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/home/shab3.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/home/shab4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/shab1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/shab3.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/shab4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <h3>Sometimes keeping Shabbat is really, really easy.</h3>
-<center><img src="http://localhost:6120/img/home/shab6.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/shab6.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <p>Sometimes I'm in Israel- then it's simple. And when I keep it with my family, I virtually am being spoon-fed my obligation.</p>
 <h3>And sometimes it's really damn hard.</h3>
-<center><img src="http://localhost:6120/img/hooters.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/hooters.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <p>Like when I'm stuck on Long Street in Africa, or when I've just completed a half-marathon and am stuck 13 miles away from my destination and it's pouring down rain.</p>
 <h3>I really want to love Shabbat. If refusing to allow myself to turn the light off before bed will cause me to begrudge Shabbat, shouldn't I just hit the damn switch? What's the big deal? Isn't it more important that I maintain a favorable opinion of the Sabbath?</h3>
 <h3>I've learned that there's no compromising. If you want to do Shabbat, commit to it. Fully fledge.</h3>
-<center><img src="http://localhost:6120/img/home/shab2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/home/shab2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 <p>If I go to a Shabbat dinner with the plan of attending a frat party or Club 31 after, even if my plan is to walk there so that I will not "break" Shabbat, my head is going to be in the wrong place the whole time I am trying to "do" Shabbat and I will not be able to enjoy it. I will detest every <i>d'var torah</i> that I otherwise would've considered beautiful, simply because I will be in a rush. I will hate any schmoozing that takes place amongst all the guests who are doing Shabbat correctly. Celebrating Shabbat all-or-nothing commitment.</p>
 
 <h3> "More than the Jewish People have kept the Sabbath, the Sabbath has kept the Jews." <i><small> - Ahad Ha'am</small></i></h3>
