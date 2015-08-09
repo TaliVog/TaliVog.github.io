@@ -15,16 +15,16 @@ tags: [travel]
 
 <p>When you are the only one at the club, you tend to make it into a decent number of pictures.</p>
 
-<center><img src="http://localhost:6120/img/travel/assembly/assem1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem8.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem12.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem14.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assembly1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assembly2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem4.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem8.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem12.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem14.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assembly1.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assembly2.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
 
 <p>Our dear friend Kale (his real name is Karol but he finds our nickname for him endearing) works at the front desk of our Cape Town hostel. However, he is not always on duty...</p>
-<center><img src="http://localhost:6120/img/travel/assembly/assem7.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem10.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
-<center><img src="http://localhost:6120/img/travel/assembly/assem9.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem7.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem10.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
+<center><img src="{{site.url}}/img/travel/assembly/assem9.jpg" height="300px" width="300px" style="padding-top:20px" /></center>
